@@ -1,9 +1,10 @@
 # SQL
-Mosh Hemadani's SQL Beginner Youtube Course <br/>
+Mosh Hemadani's SQL Beginner Youtube Course 
+
 The link to the course [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) 
 
-The repository is made for the sole purpose of learning.
+The Repository Is Licensed Under: [GNU General Public License v3.0](LICENSE)
 
-please make sure to read the license of this repository.
+Brief: The Use of the contents of the repository are not allowed to be use on youtube.
 
 Happy Learning ✌️
